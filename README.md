@@ -1,6 +1,6 @@
 ## OLÁ MUNDO 👋
 
-- 🌱 Estudando Analise e desenvolvimento de Sistemas na faculdade Newton Piava
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas na faculdade Newton Paiva
 
 ## Conecte-se comigo
 
