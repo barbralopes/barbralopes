@@ -1,7 +1,7 @@
 # 👋 Olá, mundo!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Newton Paiva.  
-💻 Foco em desenvolvimento **Back-end**. 
+💻 Foco em desenvolvimento **Back-end** .  
 🚀 Em constante evolução na área de tecnologia.
 
 ---
