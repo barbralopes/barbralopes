@@ -1,7 +1,7 @@
 # 👋 Olá, mundo!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Newton Paiva.  
-💻 Foco em desenvolvimento **Back-end** e criação de **APIs REST**.  
+💻 Foco em desenvolvimento **Back-end**. 
 🚀 Em constante evolução na área de tecnologia.
 
 ---
@@ -50,6 +50,7 @@
 ### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
@@ -60,7 +61,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
