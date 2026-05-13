@@ -1,30 +1,57 @@
-## OLÁ MUNDO 👋
+# 👋 Olá, mundo!
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas na faculdade Newton Paiva
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Newton Paiva.  
+💻 Foco em desenvolvimento **Back-end** e criação de **APIs REST**.  
+🚀 Em constante evolução na área de tecnologia.
 
-## Conecte-se comigo
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-lopes-coelho/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blcoelho_/)
-[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blcoelho51@gmail.com)
+## 🌎 Conecte-se comigo
 
-## Hablidades
-### Linguagens de Marcação e Estilo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-lopes-coelho/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blcoelho_/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blcoelho51@gmail.com)
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) 
+---
+
+## 🛠️ Tecnologias & Stack
+
+### 📌 Front-end (Base)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Linguagens de Programação
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Banco de Dados
+---
+
+### ⚙️ Back-end (Projeto Atual – Sistema de Estoque)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-6C2EB9?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+🔹 Desenvolvimento de APIs REST  
+🔹 CRUD completo  
+🔹 Autenticação e Autorização com JWT  
+🔹 Migrations e gerenciamento de banco  
+🔹 Arquitetura em camadas (Controller, Service, Repository)
+
+---
+
+### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas
+---
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+✨ Sempre buscando melhorar minhas habilidades em desenvolvimento de sistemas, boas práticas e arquitetura de software.
