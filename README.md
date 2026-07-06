@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou a Bárbara Lopes!
 
 💻 Desenvolvedora .NET com experiência em desenvolvimento de software e sólida atuação anterior em suporte técnico N1, N2 e N3.
+
 🚀 Apaixonada por tecnologia, desenvolvimento Back-end e construção de soluções escaláveis.
+
 🎯 Focada em evoluir continuamente em C#, .NET e boas práticas de desenvolvimento.
 
 ---
